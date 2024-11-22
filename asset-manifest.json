@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vistegra-task/static/css/main.7f20f57f.css",
+    "main.js": "/vistegra-task/static/js/main.be5f8211.js",
+    "index.html": "/vistegra-task/index.html",
+    "main.7f20f57f.css.map": "/vistegra-task/static/css/main.7f20f57f.css.map",
+    "main.be5f8211.js.map": "/vistegra-task/static/js/main.be5f8211.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f20f57f.css",
+    "static/js/main.be5f8211.js"
+  ]
+}
