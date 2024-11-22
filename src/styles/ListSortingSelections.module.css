@@ -1,0 +1,18 @@
+.sort_selections {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid gray;
+  background-color: aliceblue;
+  padding: 5px 10px;
+  width: 150px;
+}
+
+.sort_selections span {
+}
+
+.active {
+  display: block;
+}

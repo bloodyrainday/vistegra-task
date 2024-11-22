@@ -1,0 +1,36 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 35px;
+}
+
+.text {
+}
+
+.choose_strength_button {
+  position: relative;
+  cursor: pointer;
+  color: #f3ae36;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.strength_selections {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  padding: 5px 10px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid gray;
+  background-color: aliceblue;
+}
+
+.strength_selections span {
+}
+
+.active {
+  display: block;
+  transition: all 0.5;
+}

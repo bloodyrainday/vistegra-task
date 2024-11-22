@@ -1,0 +1,35 @@
+.wrapper {
+  padding-right: 35px;
+}
+
+.table {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+
+  text-align: center;
+  border: 2px solid grey;
+}
+
+.results p {
+  font-size: 20px;
+}
+
+.results p span {
+  color: #f3ae36;
+}
+
+.empty_row {
+  height: 50px;
+}
+
+table,
+td,
+th {
+  border: 3px solid #245488;
+}
+
+td,
+th {
+  padding: 10px 20px;
+  text-align: center;
+}

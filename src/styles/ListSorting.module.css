@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  margin-right: 10px;
+}
+
+.sort_button {
+  position: relative;
+  cursor: pointer;
+  color: #f3ae36;
+  text-decoration: underline;
+  font-size: 25px;
+}
